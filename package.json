@@ -1,0 +1,20 @@
+{
+  "author": "Yichao 'Peak' Ji <peakji@gmail.com> (http://www.peakji.com)",
+  "name": "pjpinyin",
+  "description": "node.js/web拼音转换模块,根据大量外部数据集取字频最高读音而去除多音字后生成, 适合不依赖词典时的无多音字拼音转换.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peakji/PJPinyin.git"
+  },
+  "main": "PJPinyin.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
